@@ -4,15 +4,15 @@
 // •  "Zero" agar number 0 ke barabar hai.
 //************************** END OF STATEMENT ****************************
 
-// let num = -3;
+let num = -3;
 
-// if (num > 0) {
-//   console.log("Positive");
-// } else if (num < 0) {
-//   console.log("Negative");
-// } else {
-//   console.log("Zero");
-// };
+if (num > 0) {
+  console.log("Positive");
+} else if (num < 0) {
+  console.log("Negative");
+} else {
+  console.log("Zero");
+};
 
 // ------------------------------------------------ END OF CODE -----------------------------------------------
 
